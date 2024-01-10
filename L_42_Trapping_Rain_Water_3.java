@@ -4,11 +4,11 @@ import java.util.Arrays;
 
 public class L_42_Trapping_Rain_Water_3 {
     public static void main(String[] args) {
-        // int[] array = { 0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1 };
+        int[] array = { 0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1 };
         // int[] array = { 4, 2, 0, 3, 2, 5 };
         // int[] array = { 0, 1, 2, 1, 3, 5, 0, 2 };
         // int[] array = { 1,2,5,3,1,0,2};
-        int[] array = { 2,0,2 };
+        // int[] array = { 2,0,2 };
         int i;
         int j = array.length;
         int F_answer = 0;
